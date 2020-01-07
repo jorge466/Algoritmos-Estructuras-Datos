@@ -1,0 +1,3 @@
+Elemento encontrado
+En la posicion: 3
+Los elementos del arreglo son:  5  4  7 
