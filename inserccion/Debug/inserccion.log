@@ -1,0 +1,3 @@
+﻿  inserccion.cpp
+C:\Users\Programacion\source\repos\inserccion\inserccion\inserccion.cpp(35,23): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  inserccion.vcxproj -> C:\Users\Programacion\source\repos\inserccion\Debug\inserccion.exe
